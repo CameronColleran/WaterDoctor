@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Water Doctor</string>
+    <string name="runTests">Run Tests</string>
+    <string name="no_tests">N/A</string>
+    <string name="good">Safe</string>
+    <string name="bad">Not Safe</string>
+    <string name="ph_sensor">pH Sensor</string>
+    <string name="ph_value">Your pH Value:</string>
+    <string name="calibrate">Calibrate</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="view_map">View Map</string>
+    <string name="q1"><u>My Test</u></string>
+</resources>
